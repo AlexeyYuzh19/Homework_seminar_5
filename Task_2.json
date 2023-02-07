@@ -1,0 +1,19 @@
+[
+    {
+        "surname": "Иванов",
+        "name": "Иван",
+        "patronymic": "Иванович",
+        "birthdate": "01.01.1990",
+        "birthplace": "Москва",
+        "phone": "8 926 766 48 48"
+    },
+
+    {
+        "surname": "Петров",
+        "name": "Иван",
+        "patronymic": "Иванович",
+        "birthdate": "02.02.1999",
+        "birthplace": "Казань",
+        "phone": "8 926 766 84 84"
+    }
+]
